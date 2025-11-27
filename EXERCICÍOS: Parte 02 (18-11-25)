@@ -15,4 +15,8 @@ else:
 
 print("\n---- RESULTADO ----")
 print(f"Média final: {media:.2f}")
+
 print(f"Situação do aluno: {situacao}")
+
+
+print("Criado pelas: Thamires, Thalyta e Mariany")
