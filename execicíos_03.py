@@ -16,4 +16,8 @@ print("\n---- RESULTADOS ----")
 print(f"Temperatura média do mês: {media_mes:.2f}°C")
 print(f"Maior temperatura: {maior_temp:.2f}°C")
 print(f"Menor temperatura: {menor_temp:.2f}°C")
+
 print(f"Dias com temperatura acima de 27.3°C: {dias_acima}")
+
+
+print("Criado pelas: Thamires, Thalyta e Mariany")
