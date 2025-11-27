@@ -16,4 +16,8 @@ print("\n---- RESUMO DA COMPRA ----")
 print(f"Valor original: R$ {valor:.2f}")
 print(f"Percentual de desconto aplicado: {desconto_percentual}%")
 print(f"Valor do desconto: R$ {desconto:.2f}")
+
 print(f"Valor final a pagar: R$ {valor_final:.2f}")
+
+
+print("Criado pelas: Thamires, Thalyta e Mariany")
