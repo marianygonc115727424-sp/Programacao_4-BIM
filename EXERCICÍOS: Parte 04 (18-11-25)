@@ -22,4 +22,8 @@ else:
     print("Senha Fraca! ✖")
     print("Regras não atendidas:")
     for erro in erros:
+
         print(erro)
+
+
+print("Criado pelas: Thamires, Thalyta e Mariany")
